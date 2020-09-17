@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h2>This is home page</h2>
+            <p>add new paragraph</p>
         </div>
     </form>
 </body>
